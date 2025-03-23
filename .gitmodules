@@ -1,0 +1,3 @@
+[submodule "llm-block-system.wiki"]
+	path = llm-block-system.wiki
+	url = git@github.com:davidpp/llm-block-system.wiki.git
